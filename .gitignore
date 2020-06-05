@@ -129,3 +129,13 @@ dmypy.json
 .idea/
 .vscode/
 
+
+.DS_Store
+
+tutorials/.Untitled.ipynb.icloud
+
+exercise/fastcampus/logs/
+
+tutorials/.eager execution basic.ipynb.icloud
+
+tutorials/.How to choose Loss Functions.ipynb.icloud
