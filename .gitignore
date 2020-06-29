@@ -139,3 +139,15 @@ exercise/fastcampus/logs/
 tutorials/.eager execution basic.ipynb.icloud
 
 tutorials/.How to choose Loss Functions.ipynb.icloud
+
+tutorials/logs/
+
+tutorials/MNIST/logs/
+
+tutorials/checkpoints/
+
+tutorials/TF_Basic/logs/
+
+tutorials/TF_Basic/checkpoints/
+
+tutorials/MNIST/checkpoints/
